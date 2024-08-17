@@ -4,9 +4,10 @@ Welcome to the **ScreenSaverGallery** project! This repositories contains the co
 ScreenSaverGallery is currently available for the following operating systems: 
 - **Mac OS X** [repository](https://github.com/ScreenSaverGallery/macos) | [downloads](https://github.com/ScreenSaverGallery/macos/releases)
 - **Windows** [repostitory](https://github.com/ScreenSaverGallery/windows) | [downloads](https://github.com/ScreenSaverGallery/windows/releases)
+- **Linux** [repository](https://github.com/ScreenSaverGallery/linux) | [downloads](https://github.com/ScreenSaverGallery/linux/releases)
 
 ## 🦧 About
-ScreenSaverGallery is an innovative project that merges the worlds of digital art and screen savers. Our aim is to breathe new life into the screensaver medium by turning it into a dynamic canvas for contemporary art. The screensaver showcases artworks that either act as screen savers or thematize virtual space, networking, and digital interaction. It is not just a platform for presenting art but also an experimental environment for its development.
+ScreenSaverGallery is a project that merges the worlds of digital art and screen savers. Our aim is to breathe new life into the screensaver medium by turning it into a dynamic canvas for contemporary art. The screensaver showcases artworks that either act as screen savers or thematize virtual space, networking, and digital interaction. It is not just a platform for presenting art but also an experimental environment for its development.
 
 Artworks in the ScreenSaverGallery are curated to add a new dimension by placing them in the context of a screensaver. Curators, artists, researchers and developers are invited to explore and experiment with the possibilities offered by this medium.
 
