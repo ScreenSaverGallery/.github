@@ -1,7 +1,7 @@
 # 🐣
 
 
-#### Welcome to the *ScreenSaverGallery* project! This repositories contains the code for a unique screensaver (ScreenSaverGallery), transforming your screen into a gallery of digital and online art.
+### Welcome to the *ScreenSaverGallery* project! This repositories contains the code for a unique screensaver (ScreenSaverGallery), transforming your screen into a gallery of digital and online art.
 
 🌸 [Become a sponsor (Open Collective)](https://opencollective.com/screensavergallery) 🌸
 
