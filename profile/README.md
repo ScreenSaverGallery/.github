@@ -1,6 +1,6 @@
 # 🐣
 
-🌸 [Become a sponsor (Open Collective)](https://opencollective.com/screensavergallery) 🌸
+🌸 <a href="https://opencollective.com/screensavergallery" target="_blank">Become a sponsor (Open Collective)</a> 🌸
 
 Welcome to the **ScreenSaverGallery** project! This repositories contains the code for a unique screensaver (ScreenSaverGallery), transforming your screen into a gallery of digital and online art. 
 
@@ -8,9 +8,9 @@ ScreenSaverGallery is currently available for the following operating systems:
 
 | OS | Repository | Releases | 🌸 Sponsor |
 | -- | ---------- | -------- | ------- |
-| **Mac OS X** | [repository](https://github.com/ScreenSaverGallery/macos) |  [releases](https://github.com/ScreenSaverGallery/macos/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-for-mac-os) |
-| **Windows** | [repostitory](https://github.com/ScreenSaverGallery/windows) | [releases](https://github.com/ScreenSaverGallery/windows/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-windows) |
-| **Linux** | [repository](https://github.com/ScreenSaverGallery/linux) | [releases](https://github.com/ScreenSaverGallery/linux/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/linux) |
+| **Mac OS X** | [repository](https://github.com/ScreenSaverGallery/macos) |  [releases](https://github.com/ScreenSaverGallery/macos/releases) | <a href="https://opencollective.com/screensavergallery/projects/screensavergallery-for-mac-os" target="_blank">Open Collective</a> |
+| **Windows** | [repostitory](https://github.com/ScreenSaverGallery/windows) | [releases](https://github.com/ScreenSaverGallery/windows/releases) | <a href="https://opencollective.com/screensavergallery/projects/screensavergallery-windows" target="_blank">Open Collective</a> |
+| **Linux** | [repository](https://github.com/ScreenSaverGallery/linux) | [releases](https://github.com/ScreenSaverGallery/linux/releases) | <a href="https://opencollective.com/screensavergallery/projects/linux" target="_blank">Open Collective</a> |
 
 
 ## 🦧 About
