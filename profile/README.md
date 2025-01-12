@@ -1,7 +1,4 @@
 # 🐣
-<a rel="me" href="https://tldr.nettime.org/@screensavergallery">
-    <img src="./assets/mastodon.svg">
-</a>
 
 ### Welcome to the *ScreenSaverGallery* project! This repositories contains the code for a unique screensaver (ScreenSaverGallery), transforming your screen into a gallery of digital and online art.
 
