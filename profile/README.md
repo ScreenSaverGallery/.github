@@ -6,11 +6,11 @@
 
 ScreenSaverGallery is currently available for the following operating systems: 
 
-| OS | Repository | Releases | 🌸 Sponsor |
-| -- | ---------- | -------- | ------- |
-| Mac OS X | [repository](https://github.com/ScreenSaverGallery/macos) |  [releases](https://github.com/ScreenSaverGallery/macos/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-for-mac-os) |
-| Windows | [repostitory](https://github.com/ScreenSaverGallery/windows) | [releases](https://github.com/ScreenSaverGallery/windows/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-windows) |
-| Linux | [repository](https://github.com/ScreenSaverGallery/linux) | [releases](https://github.com/ScreenSaverGallery/linux/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/linux) |
+| OS | Repository | Releases | 🌸 Sponsor | Rate |
+| -- | ---------- | -------- | --------- | ------ |
+| Mac OS X | [repository](https://github.com/ScreenSaverGallery/macos) |  [releases](https://github.com/ScreenSaverGallery/macos/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-for-mac-os) | [★](https://github.com/ScreenSaverGallery/macos) |
+| Windows | [repostitory](https://github.com/ScreenSaverGallery/windows) | [releases](https://github.com/ScreenSaverGallery/windows/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-windows) | [★](https://github.com/ScreenSaverGallery/windows) |
+| Linux | [repository](https://github.com/ScreenSaverGallery/linux) | [releases](https://github.com/ScreenSaverGallery/linux/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/linux) | [★](https://github.com/ScreenSaverGallery/linux) | 
 
 
 ## 🦧 About
