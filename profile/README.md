@@ -20,6 +20,11 @@ Artworks in the ScreenSaverGallery are curated to add a new dimension by placing
 
 For further information please visit our website [screensaver.gallery](https://screensaver.gallery)
 
+## 🎨 For Artists
+Are you an artist or curator preparing a show for ScreenSaverGallery? Start here:
+
+➡️ **[For Artists — Preparing a Show](./FOR_ARTISTS.md)** — a plain-language guide to the screensaver medium, what's technically possible, and what we need from you.
+
 ## 🐊 History
 ScreenSaverGallery was first launched by artists Barbora Trnkova and Tomas Javurek in 2012 as an artistic, somewhat ironic, project. In 2013, together with artist and curator c-merry and curator Sakrowski, we started a continuous exhibition program that continues to this day. You can see the list of screensavers (shows) [here](https://screensaver.gallery/archive/screensavers). ScreenSaverGallery is hosted on [metazoa.org](https://metazoa.org) servers.
 
