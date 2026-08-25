@@ -1,10 +1,24 @@
-# 🐣
 
-### Welcome to the *ScreenSaverGallery* project! This repositories contains the code for a desktop app ScreenSaverGallery, transforming your idle screen into a gallery of new media, computational or online art.
+# Welcome to the *ScreenSaverGallery* project! 
 
-🌸 [Become a sponsor (Open Collective)](https://opencollective.com/screensavergallery) 🌸
+This repositories contains the code for a desktop app ScreenSaverGallery, transforming your idle screen into a gallery of new media, computational or online art.
+
+| Name | Repository | Description         |
+|------|------------|---------------------|
+| ScreenSaverGallery | [liminal-screen](https://github.com/screensavergallery/liminal-screen) | [Tauri](https://tauri.app) app for Windows, Linux and Mac OS | 
+| Options | [PWA](https://github.com/ScreenSaverGallery/liminal-screen-options) | The options window for ScreenSaverGallery app |
+| Saver | TBA | Configurable PWA with multiple views for various media auto-play (kiosk) running inside ScreenSaverGallery app |
+| Website | [web](https://github.com/ScreenSaverGallery/website) | Repo for a project website on [screensaver.gallery](https://screensaver.gallery) |
 
 ScreenSaverGallery is currently available for [Windows, Linux and Mac OS](https://github.com/ScreenSaverGallery/liminal-screen/releases/latest).
+
+## 🌸 Become a sponsor
+
+| Platform | Project |
+|----------|---------|
+| Github | [tomaszatoo/liminal-screen](https://github.com/tomaszatoo/liminal-screen) |
+| Github | [screensavergallery/liminal-screen](https://github.com/screensavergallery/liminal-screen) |
+| Open Collective | [ScreenSaverGallery](https://opencollective.com/screensavergallery)
 
 
 ## 🦧 About
