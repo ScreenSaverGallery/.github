@@ -1,20 +1,14 @@
 # 🐣
 
-### Welcome to the *ScreenSaverGallery* project! This repositories contains the code for a unique screensaver (ScreenSaverGallery), transforming your screen into a gallery of digital and online art.
+### Welcome to the *ScreenSaverGallery* project! This repositories contains the code for a desktop app ScreenSaverGallery, transforming your idle screen into a gallery of new media, computational or online art.
 
 🌸 [Become a sponsor (Open Collective)](https://opencollective.com/screensavergallery) 🌸
 
-ScreenSaverGallery is currently available for the following operating systems: 
-
-| OS | Repository | Releases | 🌸 Sponsor | Rate |
-| -- | ---------- | -------- | --------- | ------ |
-| Mac OS X | [repository](https://github.com/ScreenSaverGallery/macos) |  [releases](https://github.com/ScreenSaverGallery/macos/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-for-mac-os) | [★](https://github.com/ScreenSaverGallery/macos) |
-| Windows | [repostitory](https://github.com/ScreenSaverGallery/windows) | [releases](https://github.com/ScreenSaverGallery/windows/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/screensavergallery-windows) | [★](https://github.com/ScreenSaverGallery/windows) |
-| Linux | [repository](https://github.com/ScreenSaverGallery/linux) | [releases](https://github.com/ScreenSaverGallery/linux/releases) | [Open Collective](https://opencollective.com/screensavergallery/projects/linux) | [★](https://github.com/ScreenSaverGallery/linux) | 
+ScreenSaverGallery is currently available for [Windows, Linux and Mac OS](https://github.com/ScreenSaverGallery/liminal-screen/releases/latest).
 
 
 ## 🦧 About
-ScreenSaverGallery is a project that merges the worlds of digital art and screen savers. Our aim is to breathe new life into the screensaver medium by turning it into a dynamic canvas for contemporary art. The screensaver showcases artworks that either act as screen savers or thematize virtual space, networking, and digital interaction. It is not just a platform for presenting art but also an experimental environment for its development.
+ScreenSaverGallery is a project that merges the worlds of digital art and screensavers. Our aim is to breathe new life into the screensaver medium by turning it into a dynamic canvas for contemporary art. The screensaver showcases artworks that either act as screensavers or thematize virtual space, networking, computation and digital interaction. It is not just a platform for presenting art but also an experimental environment for its development.
 
 Artworks in the ScreenSaverGallery are curated to add a new dimension by placing them in the context of a screensaver. Curators, artists, researchers and developers are invited to explore and experiment with the possibilities offered by this medium.
 
@@ -33,11 +27,13 @@ ScreenSaverGallery was first launched by artists Barbora Trnkova and Tomas Javur
 We welcome contributions from developers, artists, and enthusiasts! Here’s how you can get involved:
 
 ### Reporting Issues
-If you encounter any bugs or have suggestions for improvements, please open an issue on GitHub.
+If you encounter any bugs or have suggestions for improvements, please open an [issue](https://github.com/ScreenSaverGallery/liminal-screen/issues) on GitHub.
 
 ### Submitting Pull Requests
-1. Fork the repository.
+1. Fork the repository.<sup>[*]</sup>
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with clear, concise messages.
 4. Push your changes to your forked repository.
 5. Submit a pull request detailing your changes.
+
+<sup>[*]</sup> Currently, ScreenSaverGallery is a fully synchronised fork of the [Liminal Screen](https://github.com/tomaszatoo/liminal-screen) project. Starting there would also be a way of contributing.
